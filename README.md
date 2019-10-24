@@ -1,0 +1,1 @@
+comparison of two words  *char and std::string
